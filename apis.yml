@@ -11,9 +11,9 @@ apis:
       - url: ' https://prisondb.github.io/index.html'
         type: Documentation
     description: >-
-      PrisonDB is a project that aims to provide information and tools to help
-      folks gain access to data about prisons, jails, immigrant detention
-      centers and other correctional institutions in the United States. 
+      PrisonDB is a project that aims to provide information and tools to help folks
+      gain access to data about prisons, jails, immigrant detention centers and other
+      correctional institutions in the United States.
 name: PrisonDB
 tags:
   - API
@@ -24,9 +24,9 @@ created: '2024-12-16'
 modified: '2024-12-16'
 position: Consumer
 description: >-
-  PrisonDB is a project that aims to provide information and tools to help folks
-  gain access to data about prisons, jails, immigrant detention centers and
-  other correctional institutions in the United States. 
+  PrisonDB is a project that aims to provide information and tools to help folks gain
+  access to data about prisons, jails, immigrant detention centers and other correctional
+  institutions in the United States.
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
