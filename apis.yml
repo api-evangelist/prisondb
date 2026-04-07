@@ -4,8 +4,7 @@ url: >-
 apis:
   - aid: prisondb:prisondb
     name: PrisonDB
-    tags:
-      - API
+    tags: []
     humanURL: ' https://prisondb.github.io/index.html'
     properties:
       - url: ' https://prisondb.github.io/index.html'
@@ -15,8 +14,7 @@ apis:
       gain access to data about prisons, jails, immigrant detention centers and other
       correctional institutions in the United States.
 name: PrisonDB
-tags:
-  - API
+tags: []
 type: Index
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 access: 3rd-Party
