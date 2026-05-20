@@ -1,6 +1,9 @@
 aid: prisondb
 url: >-
   https://raw.githubusercontent.com/api-evangelist/prisondb/refs/heads/main/apis.yml
+common:
+  - type: GitHubOrganization
+    url: https://github.com/PrisonDB
 apis:
   - aid: prisondb:prisondb
     name: PrisonDB
