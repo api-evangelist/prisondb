@@ -56,7 +56,7 @@ image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/prisondb.p
 access: 3rd-Party
 created: '2024-12-16'
 modified: '2026-04-28'
-position: Consumer
+position: Consuming
 description: >-
   PrisonDB is a project that aims to provide information and tools to help folks gain
   access to data about prisons, jails, immigrant detention centers and other correctional
